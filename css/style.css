@@ -1,0 +1,22 @@
+/**{
+	margin: 0;
+	padding: 0;
+}*/
+a{
+	text-decoration: none;
+	font-size: 18px;
+	letter-spacing: 2px;
+}
+a:hover{
+	color: green
+}
+.list{
+	text-align: center;
+}
+li{
+	list-style: none;
+	display: inline-block;
+	margin-left: 8px;
+	margin-right: 8px;
+}
+
